@@ -1,0 +1,15 @@
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\bin\Debug\net6.0\BracketAnalysis.exe
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\bin\Debug\net6.0\BracketAnalysis.deps.json
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\bin\Debug\net6.0\BracketAnalysis.runtimeconfig.json
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\bin\Debug\net6.0\BracketAnalysis.dll
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\bin\Debug\net6.0\BracketAnalysis.pdb
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\obj\Debug\net6.0\BracketAnalysis.csproj.AssemblyReference.cache
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\obj\Debug\net6.0\BracketAnalysis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\obj\Debug\net6.0\BracketAnalysis.AssemblyInfoInputs.cache
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\obj\Debug\net6.0\BracketAnalysis.AssemblyInfo.cs
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\obj\Debug\net6.0\BracketAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\obj\Debug\net6.0\BracketAnalysis.dll
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\obj\Debug\net6.0\refint\BracketAnalysis.dll
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\obj\Debug\net6.0\BracketAnalysis.pdb
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\obj\Debug\net6.0\BracketAnalysis.genruntimeconfig.cache
+C:\Users\Amir\Desktop\BracketAnalysis\BracketAnalysis\obj\Debug\net6.0\ref\BracketAnalysis.dll
