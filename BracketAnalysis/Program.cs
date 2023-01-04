@@ -1,9 +1,18 @@
 ﻿using BracketAnalysis;
-
+Console.WriteLine("Please Enter the Brackets");
 Solution solution = new Solution();
 while (true)
 {
-    Console.WriteLine("Please Enter the Brackets");
     string str = Console.ReadLine();
-    Console.WriteLine($"Input : {str}\r\nOutput : {solution.IsValid(str)}");
+    if (solution.IsBracket(str))
+    {
+        Console.WriteLine($"Input : {str}\r\nOutput : {solution.IsValid(str)}");
+        Console.WriteLine("Please Enter New the Brackets");
+    }
+    else
+    {
+        Console.ForegroundColor= ConsoleColor.Red;
+        Console.WriteLine("Please Enter Jut Brackets");
+        Console.ForegroundColor = ConsoleColor.White;
+    }
 }

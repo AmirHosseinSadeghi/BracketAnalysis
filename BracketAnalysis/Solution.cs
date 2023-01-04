@@ -30,5 +30,15 @@ namespace BracketAnalysis
             return true;
         }
 
+
+        public bool IsBracket(string s)
+        {
+            for (int i = 0; i < s.Length; i++)
+            {
+                if (s[i] != '(' && s[i] != ')' && s[i] != '{' && s[i] != '}' && s[i] != '[' && s[i] != ']')
+                    return false;
+            }
+            return true;
+        }
     }
 }
